@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-	  <Folder Include ="puzzleInput"/>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="testInput\" />
-  </ItemGroup>
-
 </Project>
