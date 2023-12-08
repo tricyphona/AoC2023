@@ -60,7 +60,7 @@ namespace AoC2023
 
                                         foreach (Gear gear in FindNumber.getGears(schema, j - (length + 1), j, y - 1, y + 1, puzzleInputSize, puzzleInputWidth, value))
                                         {
-                                            Console.WriteLine("HOI");
+                                            
                                             gears.AddFirst(gear);
                                         }
                                     }
