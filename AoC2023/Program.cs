@@ -25,9 +25,10 @@ LinkedList<String> puzzleInput;
 //AoC2023.Day5.solve(puzzleInput, false);
 //puzzleInput = Input.getPuzzleInput("C:\\Users\\robbe\\source\\repos\\tricyphona\\AoC2023\\puzzleInput\\day_06.txt");
 //AoC2023.Day6.solve(puzzleInput, false);
-puzzleInput = Input.getPuzzleInput("C:\\Users\\robbe\\source\\repos\\tricyphona\\AoC2023\\puzzleInput\\day_07.txt");
-AoC2023.Day7.solve(puzzleInput, false);
-
+//puzzleInput = Input.getPuzzleInput("C:\\Users\\robbe\\source\\repos\\tricyphona\\AoC2023\\puzzleInput\\day_07.txt");
+//AoC2023.Day7.solve(puzzleInput, false);
+puzzleInput = Input.getPuzzleInput("C:\\Users\\robbe\\source\\repos\\tricyphona\\AoC2023\\puzzleInput\\day_08.txt");
+AoC2023.Day8.solve(puzzleInput, false);
 class Input
 {
     public static LinkedList<String> getPuzzleInput(String directPath) {
